@@ -1,0 +1,99 @@
+<!-- Copyright(c) 2020 Toshiba Tec Corporation, All Rights Reserved. -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Seat Card Print</title>
+    <link rel="stylesheet" type="text/css" href="./resources/css/index.css">
+    <link rel="stylesheet" href="./vendors/js/jquery-ui-1.13.2.custom/jquery-ui.css">
+</head>
+
+<body>
+    <div class="frame">
+        <div class="head">
+            <h1>坐席卡打印</h1>
+        </div>
+        <!-- print screen -->
+        <div class="body print">
+            <div class="panel sample">
+                <div class="panel-head">示例：&nbsp;&nbsp;<span id='usb_status'></span></div>
+                <div class="canvas">
+                    打印结果示例：
+                    <canvas id="myCanvas" width="398" height="250"></canvas>
+                </div>
+                <div>CSV 文件示例：</div>
+                <div class="csvsample" style="text-align: center;">
+                        <img src="./resources/images/tip.png" alt="格式">
+                </div>
+            </div>
+            <div class="content">
+                <div class="content-log panel">
+                    <div class="panel-head">提示：&nbsp;&nbsp;<span id='log'></span></div>
+                    <div class="panel-body-tip">
+                        <div class="select_font_color">
+                            <div>字体颜色：</div>
+                            <div class="select">
+                                <ol id="select_color">
+                                    <li id="black" class="ui-state-default" data-color="black"
+                                        style="background-color: rgb(0,0,0);"></li>
+                                    <li id="blue" class="ui-state-default" data-color="blue"
+                                        style="background-color: rgb(0,0,255);"></li>
+                                    <li id="golden" class="ui-state-default" data-color="golden"
+                                        style="background-color: rgb(255,215,0);"></li>
+                                </ol>
+                            </div>
+                        </div>
+                        <div class="select_font_size">
+                            <div>字号：</div>
+                            <div class="select">
+                                <input type="radio" id="font_l" name="font_size" value="140"><label
+                                    for="font_l">大</label>
+                                <input type="radio" id="font_m" name="font_size" value="130" checked><label
+                                    for="font_m">中</label>
+                                <input type="radio" id="font_s" name="font_size" value="120"><label
+                                    for="font_s">小</label>
+                            </div>
+                        </div>
+                        <div class="panel-body-message">
+                            <p>1.U盘已正确插入，且根目录有‘zxk.csv’文件</p>
+                            <p>2.点击开始按钮自动打印坐席卡</p>
+                            <p>3.点击下载按钮下载示例模板和使用手册</p>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div id="menu_content" class="content-btn">
+                    <button id="print_button" class="round-button">打印</button>
+                    <button id="download_button" class="round-button">下载</button>
+                </div>
+                <!-- <div style="position: absolute;top: 350px;right: 50px;">
+                    <button id="check_button">查看</button>
+                </div> -->
+            </div>
+        </div>
+    </div>
+
+</body>
+
+<script type="text/javascript" src="http://embapp-local.toshibatec.co.jp:50187/client/web_ssehandler.js"></script>
+<script type="text/javascript" src="./vendors/js/jquery.min.js"></script>
+<script type="text/javascript" src="./resources/js/app.js"></script>
+<script type="text/javascript" src="./resources/js/ajax.js"></script>
+<script type="text/javascript" src="./resources/js/check_button.js"></script>
+<script type="text/javascript" src="./resources/js/errors.js"></script>
+<script type="text/javascript" src="./resources/js/index.js"></script>
+<script type="text/javascript" src="./resources/js/printJob.js"></script>
+<script type="text/javascript" src="./resources/js/screen.js"></script>
+<script type="text/javascript" src="./resources/js/eventreceiver.js"></script>
+<script type="text/javascript" src="./resources/js/util.js"></script>
+<script type="text/javascript" src="./resources/js/LicenseComponent.js"></script>
+<script type="text/javascript" src="./resources/js/download_btn.js"></script>
+<script type="text/javascript" src="./vendors/js/qrcode.min.js"></script>
+<script type="text/javascript" src="./vendors/js/jquery-ui-1.13.2.custom/jquery-ui.js"></script>
+<script type="text/javascript" src="./resources/js/drawSample.js"></script>
+
+
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppProperties xmlns="http://www.toshibatec.co.jp/e-STUDIO/eApp/package">
+    <AppId>319dc11f-67b2-11ec-acd2-b4692120322f</AppId>
+    <AppName>坐席卡打印</AppName>
+    <AppVersion>1.1.0</AppVersion>
+    <AppCreatedDate>2021-12-21</AppCreatedDate>
+    <FrameworkVersion>2.0.0</FrameworkVersion>
+    <AppType>Home</AppType>
+    <AppStartType>Auto</AppStartType>
+    <HasMySettingApp>False</HasMySettingApp>
+    <LicenseNecessity>NotRequired</LicenseNecessity>
+    <AppProgramLanguage>Python</AppProgramLanguage>
+    <SupportsPython3>True</SupportsPython3>
+    <WebAPIApp>True</WebAPIApp>
+    <AppSummary>这个应用实现坐席卡批量打印</AppSummary>
+    <AllowedOemIds>00000</AllowedOemIds>
+    <BlocksSuperSleep>False</BlocksSuperSleep>
+    <AppButtonName1>坐席卡</AppButtonName1>
+    <AppButtonName2>Seat Card</AppButtonName2>
+    <VendorId>00000007</VendorId>
+    <VendorName>TOSHIBA TEC INFORMATION SYSTEMS (S.Z.)CO.,LTD. </VendorName>
+    <VendorURL>http://www.toshiba-tec.com.cn</VendorURL>
+    <VendorPhoneNumber>86 21 61030888</VendorPhoneNumber>
+    <VendorEmailAddress>solution@estudio.toshiba.com.cn</VendorEmailAddress>
+</AppProperties>

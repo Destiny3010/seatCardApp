@@ -1,0 +1,150 @@
+お客様向けソフトウェア使用許諾契約書
+
+お客様は、このソフトウェアをインストール、使用するにあたり、この契約の以下の条件に同意いただく必要があります（なお、この契約以外にサプライヤーから提供される契約書がある場合は、その契約が適用になります）。この契約の条件に同意できない場合は、このソフトウェアのインストール、複製あるいは使用をしてはいけません。
+
+ライセンス許諾：
+この契約は、お客様と東芝テック株式会社（以下、「東芝テック」という）との間の法的効果を有する契約です。このソフトウェア（以下「ソフトウェア」という）は、この契約の条項に従い、お客様が東芝テックのMFP用に使用されることを目的としてライセンスされます。ソフトウェアの著作権を含む知的財産権その他権利は、東芝テックが保有します。東芝テックは、ソフトウェアのインストール、使用、ソフトウェアの使用から生じる結果に関して、なんら責任を負うものではありません。お客様は、東芝テックのMFP用に使用するために、ソフトウェアをお客様のMFPにダウンロード、インストールすることができます。お客様は、いかなる理由であってもソフトウェアを複製することができません。お客様も含めどなたも、ソフトウェアを修正、翻訳、翻案その他いかなる方法によってもソフトウェアを変更することはできませんし、逆コンパイル、逆アセンブル又はリバースエンジニアリングを行うことができません。お客様は、このライセンス以外の使用はできません。ソフトウェアにおける知的財産権はお客様に移転されず、所有権も完全に東芝テックに留保されます。ソフトウェアのソースコードはライセンスの対象には含まれておりません。お客様は、ソフトウェアの著作権表示を（複製が行われた場合も含み）改変、削除等をすることができません。お客様は、著作権侵害、違法な譲渡、複製、使用に関する法的責任を負います。
+
+第三者ソフトウェア：
+ソフトウェアと将来のアップデイト版及びアップグレイド版には、第三者のソフトウェア（以下「第三者ソフトウェア」という）が含まれている場合があります。いかなる第三者ソフトウェアについても、この契約の条件と同様の条件を順守する必要があります。
+
+期間：
+この契約は、東芝テックによってこの契約が解除されるまで有効となります。また、お客様がこの契約の条項に違反した場合は、この契約は解除となります。いずれの場合も、お客様には、ソフトウェアをお客様のMFPから破棄又はアンインストールしていただきます。また、お客様は、ソフトウェアをお客様のMFPから破棄又はアンインストールした場合は、いつでもこの契約を終了させることができます。
+
+保証の免責：
+東芝テックは、ソフトウェアを何ら保証がなく現状有姿でそのままお客様に提供し、商品性、特定目的への適合性、権限および非侵害性などを含めすべてについて、一切保証するものはありません。東芝テックは、ソフトウェアのクオリティ、パフォーマンスについていかなる保証を行うものではありません。もし、ソフトウェアに障害が生じた場合は、（東芝テックではなく）お客様にて、必要なすべてのサービス、修正、修繕のための費用をご負担いいただきます。東芝テックは、ソフトウェアの機能がお客様の仕様に適合することも、ソフトウェアの動作が中断されないことも、エラーがないことも保証するものではありません。
+
+アップデイト及び提供の中止：
+東芝テックは、なんら制限なしに、ソフトウェアのアップデイト版、アップグレイド版を作成することができ、かつソフトウェアの提供を中止することができます。
+
+責任の制限：
+法律上認められる限度で、東芝テックは、契約責任、不法行為責任その他理由のいかんを問わず、ソフトウェアの使用または使用不能等に起因または関連して発生する、逸失利益やデータの消失等を含むいかなる直接損害、間接損害、特別損害、偶発的またはその他派生的損害に関して一切責任を負いません。この制限は、東芝テックおよびそのサプライヤーがその損害または第三者からのクレームの可能性を認識していた場合であっても適用されます。
+
+米国政府による制限付権利：
+ソフトウェアは、米国政府による制限付き権利を伴い提供されます。米国政府による使用、複製または開示は、連邦取得規制である“DOD FAR”の252.227-7013,または52.227-19（c）に規定される技術データおよびコンピュータソフトウェア条項における権利“the Rights in Technical Data and Computer　and Computer Software Clause”の(b）(3)(ii)または(c)(i)(ii)の規制の対象となります。
+
+一般条項：
+お客様は、ソフトウェア及びこのライセンスについて、サブライセンス、貸与、譲渡、移転を行うことはできません。また、ここで規定された権利・義務について、サブライセンス、貸与、譲渡、移転を行う行為は、全て無効となります。
+
+この契約は、日本およびアメリカその他の関係国の輸出管理法や規則の下で管理される製品および（あるいは）技術情報を対象とします。お客様は、当該適用可能な輸出管理法や規則にしたがうことに同意し、製品自体あるいはソフトウェアまたはそのメディアに含まれる技術情報の全てまたはその一部であっても、上記輸出管理法や規則で制限されたあるいは日本およびアメリカその他の関係国によって禁止された国または地域に、当該国等政府当局の承認なく、ソフトウェアを（直接または間接的に）輸出あるいは再輸出することはできないことに同意いただきます。
+
+この契約は日本国の法律に準拠するものとし、この契約から生じる一切の紛争に関しては、東京地方裁判所を管轄裁判所とします。また、東芝テックのサプライヤーの選択によっては、サプライヤーが選択した国の法律に準拠することとなります。この契約の条項又は一部が違法、無効、履行不能であったとしても、残りの条項又は一部は引き続き有効に扱われます。
+
+お客様は、この契約をお読みいただき、その条項を理解し、その契約条件に同意いただきます。さらに、お客様は、この契約書が、お客様、東芝テック及びサプライヤーとの間の完全で唯一な契約であり、いかなる提案、事前の契約書、この契約の主要条項に関する口頭、文書その他のいかなる情報より、この契約が優先されることに同意いただきます。
+
+
+以上
+
+
+
+
+OPEN SOURCE AND THIRD PARTY SOFTWARE
+
+----
+jQuery
+
+The MIT License
+
+Copyright 2005, 2014 jQuery Foundation, Inc. and other contributors 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+handlebars.js
+
+The MIT License
+
+Copyright (c) 2011-2016 by Yehuda Katz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+
+Responsive Grid System
+
+Creative Commons Attribution 3.0 License.
+CC BY 3.0 : https://creativecommons.org/licenses/by/3.0/
+
+(c) Copyright Graham Miller
+
+
+ionicons.min.css
+
+The MIT License
+
+Copyright (c) 2016 Drifty (http://drifty.com/)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+
+normalize.css
+
+Copyright (c) Nicolas Gallagher and Jonathan Neal
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+----
+
+

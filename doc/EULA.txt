@@ -1,0 +1,145 @@
+END USER SOFTWARE LICENSE AGREEMENT
+
+INSTALLING OR OTHERWISE USING THIS SOFTWARE PRODUCT CONSTITUTES YOUR ACCEPTANCE OF THE FOLLOWING TERMS AND CONDITIONS (UNLESS A SEPARATE LICENSE IS PROVIDED BY THE SUPPLIER OF APPLICABLE SOFTWARE IN WHICH CASE SUCH SEPARATE LICENSE SHALL APPLY). IF YOU DO NOT ACCEPT THESE TERMS, YOU DO NOT INSTALL,　COPY OR USE THIS SOFTWARE.
+
+GRANT OF LICENSE:
+This is a legal agreement between you, the end-user ("You"), and TOSHIBA TEC Corporation ("TTEC"). This software ("Software") is licensed for use with a supported TTEC MFP in accordance with the terms contained in this Agreement. This Software, including copyright and other intellectual property rights, is proprietary to TTEC. TTEC disclaims responsibility for the installation and/or use of this Software, and for the results obtained by using this Software. You may download and install this Software to your MFP for use with a supported TTEC MFP. You may not copy the Software for any reason. You may not, nor cause or permit any third party to, modify, adapt, merge, translate, reverse compile, reverse assemble, or reverse engineer the Software. You may not use the Software, except in accordance with this license. No title to the intellectual property in the Software is transferred to you and full ownership is retained by TTEC. Source code of the Software is not licensed to you. You may not perform modification, deletion, etc. to the copyright notice of the Software (including in duplicate).You will be held legally responsible for any copyright infringement, unauthorized transfer, reproduction or use of the Software.
+
+Third Party Software:
+The Software and future updates and upgrades may contain third party software (“Third Party Software”). Any and all Third Party Software shall be governed by the same terms and conditions stated in this End User License Agreement.
+
+TERM:
+This license is effective until terminated by TTEC or upon your failure to comply with any term of this Agreement. Upon termination, delete or uninstall the Software from your MFP. You may terminate this license at any time by deleting or uninstalling the Software from your MFP.
+
+DISCLAIMER OF WARRANTY:
+This Software is provided "AS IS" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement. TTEC disclaims any warranty relating to the quality and performance of the Software. If the Software proves defective, You (and not TTEC) shall be responsible for the entire cost of all necessary servicing, repair or correction. TTEC does not warrant that the functions contained in the Software will meet your requirements or that the operation of the Software will be uninterrupted or error free.
+
+UPDATE AND DISCONTINUE:
+TTEC may update, upgrade and discontinue this Software without any restriction.
+
+LIMITATION OF LIABILITY:
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL TTEC BE LIABLE TO YOU FOR ANY DAMAGES, WHETHER IN CONTRACT, TORT, OR OTHERWISE, INCLUDING WITHOUT LIMITATION ANY LOST PROFITS, LOST DATA, LOST SAVINGS OR OTHER INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF TTEC OR ITS SUPPLIERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, NOR FOR THIRD PARTY CLAIMS.
+
+U.S. GOVERNMENT RESTRICTED RIGHTS:
+The Software is provided with RESTRICTED RIGHTS. Use, duplication or disclosure by the U.S. Government is subject to restrictions set forth in subdivision (b)(3)(ii) or (c)(i)(ii)of the Rights in Technical Data and Computer Software Clause set forth in 252.227-7013, or 52.227-19 (c)(2) of the DOD FAR, as appropriate.
+
+GENERAL:
+You may not sublicense, lease, rent, assign or transfer this license or the Software. Any attempt to sublicense, lease, rent, assign or transfer any of the rights, duties or obligations hereunder is void. 
+
+This Agreement involves products and/or technical information that may be controlled under export control laws and regulations of Japan, the United States and any other country. You agree to comply with such applicable export laws and regulations. You agree that you do not intend to, and will not export or re-export (directly or indirectly) the Software, including any copies of the Software, or any technical information contained in the Software or its media, or any direct product thereof, to any country or destination prohibited by government of Japan, the United States and the relevant country.
+
+This license shall be governed by the laws of Japan or, at the election of a Supplier of TTEC concerned with a dispute arising from or relating to this Agreement, the laws of the Country designated from time to time by the relevant Supplier of TTEC. If any provision or portion of this Agreement shall be found to be illegal, invalid or unenforceable, the remaining provisions or portions shall remain in full force and effect.
+
+YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE AGREEMENT AND THAT YOU UNDERSTAND ITS PROVISIONS. YOU AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS. YOU FURTHER AGREE THAT THIS LICENSE AGREEMENT CONTAINS THE COMPLETE AND EXCLUSIVE AGREEMENT BETWEEN YOU AND TTEC AND ITS SUPPLIERS AND SUPERSEDES ANY PROPOSAL OR PRIOR AGREEMENT, ORAL OR WRITTEN, OR ANY OTHER COMMUNICATION RELATING TO THE SUBJECT MATTER OF THIS LICENSE AGREEMENT.
+
+
+
+OPEN SOURCE AND THIRD PARTY SOFTWARE
+
+----
+jQuery
+
+The MIT License
+
+Copyright 2005, 2014 jQuery Foundation, Inc. and other contributors 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+handlebars.js
+
+The MIT License
+
+Copyright (c) 2011-2016 by Yehuda Katz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+
+Responsive Grid System
+
+Creative Commons Attribution 3.0 License.
+CC BY 3.0 : https://creativecommons.org/licenses/by/3.0/
+
+(c) Copyright Graham Miller
+
+
+ionicons.min.css
+
+The MIT License
+
+Copyright (c) 2016 Drifty (http://drifty.com/)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+
+
+normalize.css
+
+Copyright (c) Nicolas Gallagher and Jonathan Neal
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+----
+
